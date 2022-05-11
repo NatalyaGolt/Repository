@@ -1,0 +1,10 @@
+id:
+summary:
+environment:
+precondisions:
+steps:
+expected result:
+actual result:
+priority:
+severity:
+assign:
